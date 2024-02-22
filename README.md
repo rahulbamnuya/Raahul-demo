@@ -1,4 +1,4 @@
 # Raahul-demo
 This is my first repository
 <br>
-Author - Rahul Bamaniya
+Author - Rahul ji Bamaniya
